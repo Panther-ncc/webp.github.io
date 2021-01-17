@@ -1,0 +1,39 @@
+/*hw1.css*/
+header{
+  background-color: #808080;
+}
+h1{
+  color: #00ffad;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Chiller";
+}
+aside{
+  display: none;
+}
+h2{
+  text-transform: uppercase;
+  color: #00ffad;
+  font-family: "Chiller";
+}
+section{
+  background-color: #808080;
+}
+nav{
+  color:#000000;
+}
+p{
+  color: #000000;
+  font-style: bold;
+  font-family: "monotype corsiva";
+  font-size: 20px;
+}
+a{
+  font-family: "Blackadder ITC";
+  color: #00e7ff;
+  font-size: 15px;
+
+}
+table{
+  font-family: "monotype corsiva";
+}
